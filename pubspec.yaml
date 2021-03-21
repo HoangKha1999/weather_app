@@ -49,17 +49,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - hinh/snow.png
-    - hinh/clear.png
-    - hinh/hail.png
-    - hinh/heavycloud.png
-    - hinh/heavyrain.png
-    - hinh/lightcloud.png
-    - hinh/lightrain.png
-    - hinh/showers.png
-    - hinh/sleet.png
-    - hinh/snow.png
-    - hinh/thunderstorm.png
+    - images
 
   # To add assets to your application, add an assets section, like this:
   # assets:
